@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @engmahmoudatallah
-- 
+
 I'm an Android developer ( java - kotlin) with 5+ years of experience with java and 2+ year with kotlin.
 * Analytical and detail-oriented Android app developer.
 
