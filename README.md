@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @engmahmoudatallah
+- <h1 align="center">Hi, I’m Mahmoud Atallah 👋</h1>
+
+🔭 I'm a Senior Android Developer at Silky Systems
+
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm an Android developer ( java - kotlin) with 5+ years of experience with java and 2+ year with kotlin.
 * Analytical and detail-oriented Android app developer.
@@ -11,7 +15,6 @@ I'm an Android developer ( java - kotlin) with 5+ years of experience with java 
 
 * Committed to viable and easily functional app solutions for clients
 
-- I'm Senior Android Developer at Silky Systems
 
 <!---
 engmahmoudatallah/engmahmoudatallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
