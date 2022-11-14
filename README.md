@@ -1,8 +1,8 @@
 - <h1 align="center">Hi, I’m Mahmoud Atallah 👋</h1>
 
-🔭 I'm a Senior Android Developer at Silky Systems
+<img src="https://github.com/engmahmoudatallah/engmahmoudatallah/blob/main/Mahmoud%20Atallah.png?raw=true" align="center" width="100%"/>
 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+🔭 I'm a Senior Android Developer at Silky Systems
 
 I'm an Android developer ( java - kotlin) with 5+ years of experience with java and 2+ year with kotlin.
 * Analytical and detail-oriented Android app developer.
