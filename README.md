@@ -23,6 +23,17 @@ I'm an Android developer ( java - kotlin) with 5+ years of experience with java 
 
 * Committed to viable and easily functional app solutions for clients
 
+## Skills: 
+* Android Development
+* Firebase Services
+* Kotlin & Java 
+* MVVM 
+* Clean Architecture
+* Data Structure
+* OOP
+* Problem Solving
+* Leadship
+
 
 <!---
 engmahmoudatallah/engmahmoudatallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
