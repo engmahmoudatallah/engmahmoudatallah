@@ -8,7 +8,7 @@
   width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Mahmoud+Atallah+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Senior+Android+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="M.atallah" /></a>
 
 
-<h3 align="center">🔭 I'm a Senior Android Developer at Silky Systems</h3>
+<h3 align="center">🔭 I'm a Senior Android Developer at Beetleware</h3>
 
 
 
