@@ -9,7 +9,7 @@ Building scalable, maintainable, and high-performance mobile applications.
 </p>
 
 <img
-  src="https://github.com/engmahmoudatallah/engmahmoudatallah/blob/main/Mahmoud_Atallah.png?raw=true"
+  src="https://github.com/engmahmoudatallah/engmahmoudatallah/blob/main/Mahmoud_Atallah_2.png?raw=true"
   width="100%"
   alt="Mahmoud Atallah"
 />
